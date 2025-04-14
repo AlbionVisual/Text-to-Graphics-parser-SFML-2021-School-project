@@ -6,7 +6,7 @@ layout
 		background 255 255 255
 		name Layout
 	/settings
-	examples //infuture
+	examples //in future
 		input rectangle text /input
 		button rectangle text /button
 	/examples
@@ -112,7 +112,7 @@ layout
 
 
 
-//				There is all comments:					\\
+//				All shapes and properties:
 https://www.sfml-dev.org/tutorials/2.5/graphics-shape.php
 
 all shape commands:
